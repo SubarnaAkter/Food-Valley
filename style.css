@@ -45,7 +45,7 @@ h3{
     font-size: 20px;
     text-align:center ;
     font-style: italic;
-    color:rgb(108, 219, 253);
+    color:rgb(207, 248, 179);
 }
 .half-width{
     width:50%;
@@ -65,21 +65,20 @@ span{
     color:rgb(58, 58, 207);
 }
 #head{
-    padding-top: 55px;
-    padding-right:100px;
+    padding-top: 40px;
     font-size: 35px;
     
 }
 .para{ 
-    margin-bottom: 45px;
-    padding-right: 50px;
+    margin-bottom: 50px;
+   
 }
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(to right,cyan,blue);
     border-radius: 25px;
     color:white;
-    padding:8px 25px;
+    padding:12px 30px;
     font-weight: 700;
     
 }
@@ -128,10 +127,11 @@ span{
    
 }
 #media-container{
-    box-shadow:1px 1px 3px grey;
+    box-shadow:3px 3px 8px grey;
     margin:5%;
     border-radius: 15px;
     height:120px;
+    background-image: linear-gradient(rgb(250, 234, 234),rgb(155, 143, 143));
 }
 .hours{
   
