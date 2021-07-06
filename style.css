@@ -8,7 +8,7 @@ body{
     padding-top:5%;
     box-shadow: 3px 5px 4px  rgb(85, 85, 180);
     background-size:100% 100% ;
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
 }
 #res-name{
     color:rgb(12, 12, 240);
@@ -45,11 +45,9 @@ span{
     font-size: 40px;;
     padding-right:100px;
 }
-.para{
-    font-size: 80%;
-    
+.para{ 
     margin-bottom: 45px;
-    padding-right: 80px;
+    padding-right: 50px;
 }
 .link-button{
     text-decoration: none;
@@ -75,9 +73,7 @@ span{
 #Recipe-header{
        text-align: center;
    }
-.Recipe-para{
-       font-size: 80%;
-   }
+
 .div-style{
        width:25%;
        padding:12px 12px 2px 12px;
